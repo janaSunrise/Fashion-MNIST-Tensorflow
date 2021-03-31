@@ -8,6 +8,7 @@ numpy = "*"
 pandas = "*"
 tensorflow = "*"
 matplotlib = "*"
+opencv-python = "*"
 
 [dev-packages]
 jupyter = "*"
